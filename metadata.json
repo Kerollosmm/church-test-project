@@ -1,0 +1,7 @@
+{
+  "name": "Church Management System",
+  "description": "A comprehensive suite for managing church attendance, student results, and reporting with a modern navy and gold aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
